@@ -1,0 +1,7 @@
+{
+  "name": "Decibel Meter Live",
+  "description": "A real-time decibel meter with a live graph, theme customization, and language selection. It displays current, minimum, and maximum sound levels by analyzing microphone input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
